@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **demian.a.cortes@gmail.com**
+- 📫 How to reach me **demian.a.cortes1250@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
